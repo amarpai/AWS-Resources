@@ -1,0 +1,6 @@
+Internet Gateway
+Private subnet should be used for resources that wont be allowed access to internet
+
+NAT gateway - enables instances in private subnet to initiate outbound traffic to the internet.
+NAT gateway will always inside a public subnet
+
