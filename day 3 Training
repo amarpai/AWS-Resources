@@ -11,3 +11,12 @@ ip address are bit format
 
 00001010  00000000 00000000. (24 bits are fixed)  only last 8 bits are allowed to changed
 
+
+Amazon RDS:
+1) Dynamo DB - No sql
+2) Redshift
+3) Neptune - graph database - neo4j
+4) Amazon Document DB
+5) Percona and Maria DB
+6) Redis and memcacha (elasticcache)
+
