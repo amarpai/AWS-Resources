@@ -4,3 +4,10 @@ Private subnet should be used for resources that wont be allowed access to inter
 NAT gateway - enables instances in private subnet to initiate outbound traffic to the internet.
 NAT gateway will always inside a public subnet
 
+We have range of ips.. but address reserved for Private are 10.0.0.0/24 (CIDR to IP adress)
+ip address are bit format
+
+8 bits . 8bits. 8bits. 8bits
+
+00001010  00000000 00000000. (24 bits are fixed)  only last 8 bits are allowed to changed
+
